@@ -1,4 +1,4 @@
-# Hi, I'm Ransara Maldeniya 👋
+# Hi, I'm Ransara Maldeniya 
 
 ## FPGA & Embedded Systems Engineer in Progress
 
