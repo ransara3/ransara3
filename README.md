@@ -4,11 +4,11 @@
 
 I'm a Electronic Engineering undergraduate passionate about designing digital systems, developing FPGA-based solutions, and building reliable embedded hardware. I also explore computer vision and full-stack development to create complete, practical systems.
 
-- 🎓 Electronic Engineering undergraduate at the University of Moratuwa
-- 🔭 Currently focused on **FPGA design, digital systems, and embedded systems**
-- 🌱 Learning more about **Verilog/SystemVerilog, computer architecture, hardware interfaces, and embedded development**
-- 👯 Interested in collaborating on **FPGA, embedded, robotics, computer vision, and software projects**
-- ⚡ I enjoy turning hardware concepts into working systems
+-  Electronic Engineering undergraduate at the University of Moratuwa
+-  Currently focused on **FPGA design, digital systems, and embedded systems**
+-  Learning more about **Verilog/SystemVerilog, computer architecture, hardware interfaces, and embedded development**
+-  Interested in collaborating on **FPGA, embedded, robotics, computer vision, and software projects**
+-  I enjoy turning hardware concepts into working systems
 
 ## 🧰 Main Technical Focus
 
