@@ -97,8 +97,8 @@ A Python-based utility for capturing and sharing screenshots efficiently.
 
 I'm open to learning, collaborating, and contributing to projects involving FPGA design, embedded systems, computer vision, robotics, and software engineering.
 
-- 📧 Email: Add your preferred email here
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 📧 Email: ransaramld@gmail.com
+- 💼 LinkedIn: Ransara Maldeniya
 
 ---
 
